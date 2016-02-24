@@ -1,0 +1,16 @@
+= doctype html
+html lang=en
+  head
+    = include partials/head.html .
+  body
+    = include partials/facebook-sdk.html .
+    a#skip-to-content href=#content skip to content
+    = include partials/navigation.html .
+    .wrapper
+      = include partials/hero.html .
+      .container#content
+        = yield main
+    = include partials/glossary.html .
+    = include partials/footer.html .
+    = include partials/share.html .
+    = include partials/scripts.html .

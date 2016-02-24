@@ -1,0 +1,25 @@
+{
+  "name": "gulf",
+  "version": "1.0.0",
+  "description": "Website for the Gulf Restoration Program of USFWS",
+  "main": "index.js",
+  "watch": {
+    "hugo": "site/**/*{.ace,.md,.html}"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "browser-sync start --server dist --files 'dist/**/*'",
+    "hugo": "node build/hugo",
+    "start": "npm run hugo & npm run serve"
+  },
+  "keywords": [
+    "Gulf",
+    "Restoration",
+    "USFWS"
+  ],
+  "author": "@r0yhewitt",
+  "license": "SAX-PD",
+  "devDependencies": {
+    "rimraf": "^2.5.2"
+  }
+}
