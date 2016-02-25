@@ -1,6 +1,7 @@
 .nav-bar {
   background-color: $black;
   margin-top: -5px;
+  min-height: 55px;
   padding: 10px 0;
 
   a {
@@ -58,7 +59,8 @@
   border-radius: 5px;
   color: $white;
   float: right;
-  margin: 8px 15px;
+  font-size: .8em;
+  margin: 0 15px;
   padding: .4em;
 }
 
