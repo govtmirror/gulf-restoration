@@ -1,0 +1,9 @@
+= content main
+  h1 Gulf Restoration Program
+
+  section.news-releases
+    h2 Latest News:
+
+    {{ range first 3 (where .Site.Pages "Section" "news") }}
+      {{ .Render "teaser" }}
+    {{ end }}
