@@ -4,13 +4,27 @@
   "description": "Website for the Gulf Restoration Program of USFWS",
   "main": "index.js",
   "watch": {
-    "hugo": "site/**/*{.ace,.md,.html}"
+    "fonts": "src/fonts/*",
+    "hugo": {
+      "patterns": [
+        "site/**/*"
+      ],
+      "extensions": "html,md,ace,css"
+    }
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "cleandist": "rimraf -rf dist",
+    "watch": "npm-watch",
+    "fonts": "ncp src/fonts dist/fonts",
+    "sass:build": "node-sass --output-style compressed src/scss/main.scss site/static/css/main.css",
+    "sass:watch": "node-sass -w src/scss/main.scss site/static/css/main.css",
     "serve": "browser-sync start --server dist --files 'dist/**/*'",
+    "prehugo": "npm run cleandist",
     "hugo": "node build/hugo",
-    "start": "npm run hugo & npm run serve"
+    "build": "npm run sass:build && npm run hugo",
+    "prestart": "npm run hugo & npm run sass:build",
+    "start": "npm run watch & npm run sass:watch & npm run serve"
   },
   "keywords": [
     "Gulf",
@@ -20,6 +34,8 @@
   "author": "@r0yhewitt",
   "license": "SAX-PD",
   "devDependencies": {
+    "ncp": "^2.0.0",
+    "node-sass": "^3.4.2",
     "rimraf": "^2.5.2"
   }
 }
