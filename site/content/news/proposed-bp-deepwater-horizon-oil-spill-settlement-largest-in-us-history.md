@@ -1,5 +1,5 @@
 ---
-title: Proposed BP-Deepwater Horizon oil spill settlement largest in U.S. history
+title: Proposed BP Deepwater Horizon oil spill settlement largest in U.S. history
 date: 2015-11-28
 ---
 

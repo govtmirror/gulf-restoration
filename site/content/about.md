@@ -1,5 +1,7 @@
 ---
 title: About
+hero:
+  name: manatee-snappers
 ---
 
 # U.S. Fish and Wildlife Service’s Gulf Restoration Program (GRP)
