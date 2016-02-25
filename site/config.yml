@@ -1,2 +1,5 @@
-baseurl: "http://fws.gov/gulf-restoration"
+baseurl: "http://fws.gov/gulfrestoration"
 title: "Gulf Restoration Program"
+canonifyurls: true
+permalinks:
+  news: /:section/:year/:month/:filename/
