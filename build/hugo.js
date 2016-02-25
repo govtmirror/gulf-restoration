@@ -5,7 +5,8 @@
   var hugo = spawn('hugo', [
     '--config=site/config.yml',
     '--destination=../dist/',
-    '--source=site/'
+    '--source=site/',
+    '--baseURL=/'
   ]);
 
   hugo.stdout.on('data', function (data) {
