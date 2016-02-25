@@ -1,0 +1,12 @@
+a {
+  color: $blue;
+
+  &:visited {
+    color: darken($blue, 10);
+  }
+
+  &:active,
+  &:hover {
+    color: darken($blue, 5);
+  }
+}

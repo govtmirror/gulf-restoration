@@ -1,0 +1,10 @@
+.wrapper {
+  background-color: $white;
+  box-shadow: 0 9px 0px 0px $white, 0 -9px 0px 0px $white, 12px 0 15px -4px #bbb, -12px 0 15px -4px #bbb;
+  margin: auto;
+  max-width: $max-width;
+}
+
+#content {
+  padding: 3%;
+}

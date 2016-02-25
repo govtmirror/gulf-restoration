@@ -1,0 +1,75 @@
+.nav-bar {
+  background-color: $black;
+  margin-top: -5px;
+  padding: 10px 0;
+
+  a {
+    background: lighten($black, 10);
+    border-radius: 5px;
+    color: $white;
+    display: block;
+    padding: .25em;
+    text-decoration: none;
+
+    &:hover {
+      background: lighten($black, 20);
+    }
+
+    &:active,
+    &:hover,
+    &:visited {
+      color: $white;
+    }
+  }
+
+  nav {
+    display: none;
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+
+      li {
+        margin-bottom: 0;
+
+        &:hover {
+          ul {
+            background-color: $black;
+            border-bottom-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+            display: block;
+            min-width: 250px;
+            text-align: left;
+          }
+        }
+
+        ul {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+.toggle-nav {
+  background-color: $blue;
+  border: 3px solid lighten($blue, 10);
+  border-radius: 5px;
+  color: $white;
+  float: right;
+  margin: 8px 15px;
+  padding: .4em;
+}
+
+.drop-down {
+  background: lighten($black, 10);
+  border-radius: 5px;
+  color: $white;
+  display: block;
+  padding: .25em;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
