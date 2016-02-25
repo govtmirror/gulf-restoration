@@ -1,5 +1,6 @@
 dist
 node_modules
 site/static/css
+site/static/images
 
 .DS_Store
