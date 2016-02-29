@@ -35,6 +35,7 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
+    text-align: center;
 
     li {
       margin-bottom: 0;
@@ -46,7 +47,6 @@
           border-bottom-right-radius: 5px;
           display: block;
           min-width: 250px;
-          text-align: left;
 
           li {
             display: block;
@@ -66,18 +66,16 @@
       ul {
         display: none;
       }
-
-      @media (min-width: $break-md) {
-        display: inline-block;
-        padding: .25em;
-        position: relative;
-      }
     }
   }
 
   @media (min-width: $break-md) {
     display: block;
-    text-align: center;
+
+    li {
+      display: inline-block;
+      margin: .25em;
+    }
   }
 }
 
@@ -86,9 +84,8 @@
   border: 3px solid lighten($blue, 10);
   border-radius: 5px;
   color: $white;
-  float: right;
   font-size: .8em;
-  margin: 0 15px;
+  margin-left: $leading / 2;
   padding: .4em;
 
   @media (min-width: $break-md) {
@@ -101,7 +98,6 @@
   border-radius: 5px;
   color: $white;
   display: block;
-  padding: .25em;
 
   &:hover {
     cursor: pointer;
