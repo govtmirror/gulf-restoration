@@ -75,3 +75,33 @@
     cursor: pointer;
   }
 }
+
+@media (min-width: 815px) {
+
+  .nav-bar nav {
+    display: block;
+    text-align: center;
+  }
+
+  .nav-bar ul li {
+    display: inline-block;
+    padding: 0.25em;
+    position: relative;
+  }
+
+  .nav-bar ul li:hover ul {
+    display: block;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 50;
+    padding: 0;
+  }
+  .nav-bar ul li:hover ul li {
+    display: block;
+  }
+
+  .toggle-nav {
+    display: none;
+  }
+}

@@ -21,3 +21,36 @@ img {
     float: right;
   }
 }
+
+figure {
+  background-color: $white;
+  border: 1px solid $gray;
+  border-bottom: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  display: table;
+  font-size: .875em;
+  padding: 5px;
+
+  a {
+    text-decoration: none;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+  }
+}
+
+figcaption {
+  background: $white;
+  border: 1px solid $gray;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top: 0;
+  caption-side: bottom;
+  color: $blue;
+  display: table-caption;
+  padding: 5px;
+  text-align: center;
+}

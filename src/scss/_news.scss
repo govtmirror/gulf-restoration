@@ -9,6 +9,21 @@
   img {
     margin: $leading 0 $leading $leading;
   }
+
+  @media (min-width: $break-md) {
+    article {
+      border: 1px solid $gray;
+      border-radius: 5px;
+      box-shadow: 5px 5px 5px 0 $gray;
+      padding: 1em;
+    }
+  }
+
+  @media (min-width: $break-lg) {
+    display: inline-block;
+    margin-right: 4%;
+    width: 48%;
+  }
 }
 
 .news-title {
@@ -28,4 +43,12 @@
 .news-archive {
   margin-bottom: 2em;
   text-align: center;
+}
+
+.news-links {
+  text-align: center;
+
+  p {
+    margin-top: 0;
+  }
 }

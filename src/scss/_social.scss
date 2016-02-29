@@ -1,0 +1,21 @@
+.social {
+  margin-bottom: 1em;
+  text-align: center;
+  transition: transform .3s ease-out;
+
+  a {
+    margin-right: 10px;
+    text-decoration: none;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  img {
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}
