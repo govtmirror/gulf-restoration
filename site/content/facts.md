@@ -6,7 +6,7 @@ hero:
 
 # Fact Sheets for the Gulf of Mexico
 
-<figure>
+<figure class="photo">
   <img src="../images/roseatte-spoonbill.jpg" alt="A large pink bird with a long rounded bill perches on a snag." title="Roseatte spoonbill. Photo credit: Tampa Bay Coastal Program." >
   <figcaption>Roseatte spoonbill. Photo credit: Tampa Bay Coastal Program.</figcaption>
 </figure>
@@ -29,7 +29,7 @@ The following fact sheets are from the U.S. Fish &amp; Wildlife Service and othe
 - [Environmental Studies since Deepwater Horizon — Reforms within BOEM](http://www.boem.gov/Research-Related-to-the-Deepwater-Horizon-Factsheet/)
 - [Reforms Since the Deepwater-Horizon Tragedy](http://www.boem.gov/Reforms-since-the-Deepwater-Horizon-Tragedy/)
 
-<figure>
+<figure class="photo">
   <img src="../images/dunes-on-purdue-unit.jpg" alt="Sand dunes covered with sparse vegetation in front of a blue sky and ocean backdrop." title="Sand dunes on Perdue Unit. Photo credit: USFWS." >
   <figcaption>Sand dunes on Perdue Unit. Photo credit: USFWS.</figcaption>
 </figure>

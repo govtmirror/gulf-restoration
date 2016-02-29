@@ -1,17 +1,17 @@
 ---
 title: Working with Others
 hero:
-  name:
+  name: lichen
 ---
 
 # Joint State-Federal Entities
 
-<a href="https://flic.kr/p/8DbEr5">
-  <figure>
-    <img src="../../images/cleaning-brown-pelican.jpg" alt="Two people in HAZMAT gear clean a brown pelican of oil" >
-    <figcaption>Brown pelican being cleaned of oil and other contaminants May 26, 2010, as part of the response to the Deepwater Horizon oil spill. Photo: Tom MacKenzie, USFWS</figcaption>
-  </figure>
-</a>
+<figure class="photo">
+  <a href="https://flic.kr/p/8DbEr5">
+    <img src="/images/cleaning-brown-pelican.jpg" alt="Two people in HAZMAT gear clean a brown pelican of oil" >
+  </a>
+  <figcaption>Brown pelican being cleaned of oil and other contaminants May 26, 2010, as part of the response to the Deepwater Horizon oil spill. Photo: Tom MacKenzie, USFWS</figcaption>
+</figure>
 
 As the federal fish and wildlife agency, the Service has a responsibility to the public, including our partners, to ensure meaningful conservation outcomes for our shared fish and wildlife goals. It is essential that we not only engage with partners, but also support and bridge our common efforts. While the conservation needs of the Gulf of Mexico are daunting, collectively we have the potential to significantly advance Gulf restoration and provide ecological and economic benefits to the American public.
 
@@ -19,12 +19,13 @@ Close relationships with the state fish and wildlife agencies, other federal age
 
 ## [Natural Resources Damage Assessment and Restoration Program (NRDA)](http://www.doi.gov/restoration/index.cfm)
 
-<a href="https://flic.kr/p/8D8zWF">
-  <figure>
-    <img src="../../images/tar-balls-on-shore.jpg" alt="A U.S. Fish &apm; Wildlife employee wearing gloves examines oil on a beach" >
-    <figcaption>Tar balls of weathered oil wash ashore at Bon Secour National Wildlife Refuge in Alabama June 4, 2010. Photo: Lillian Falco, USFWS</figcaption>
-  </figure>
-</a>
+
+<figure class="photo">
+  <a href="https://flic.kr/p/8D8zWF">
+    <img src="/images/tar-balls-on-shore.jpg" alt="A U.S. Fish &apm; Wildlife employee wearing gloves examines oil on a beach" >
+  </a>
+  <figcaption>Tar balls of weathered oil wash ashore at Bon Secour National Wildlife Refuge in Alabama June 4, 2010. Photo: Lillian Falco, USFWS</figcaption>
+</figure>
 
 The mission of the U.S. Department of the Interior's NRDA Restoration Program is to restore natural resources injured as a result of oil spills or hazardous substance releases into the environment. In partnership with affected state, tribal and federal trustee agencies, the NRDA Restoration Program conducts damage assessments which are the first step toward resource restoration and used to provide the basis for determining restoration needs that address the public’s loss and use of natural resources.
 

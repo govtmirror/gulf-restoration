@@ -8,12 +8,12 @@ url: /working-with-others/landscape-conservation-cooperatives
 
 # Landscape Conservation Cooperatives
 
-<a href="https://flic.kr/p/8LzNU2">
-  <figure>
-    <img src="../../images/wooping-cranes.jpg" alt="Two whooping cranes in flight over a grassland" title="Whooping Cranes. Photo: Steve Hillebrand, USFWS" >
-    <figcaption>The Aransas National Wildlife Refuge on the shore of San Antonio Bay is known for its large flock of wintering whooping cranes. Photo credit: Steve Hillebrand/USFWS</figcaption>
-  </figure>
-</a>
+<figure class="photo">
+  <a href="https://flic.kr/p/8LzNU2">
+    <img src="/images/wooping-cranes.jpg" alt="Two whooping cranes in flight over a grassland">
+  </a>
+  <figcaption>The Aransas National Wildlife Refuge on the shore of San Antonio Bay is known for its large flock of wintering whooping cranes. Photo credit: Steve Hillebrand/USFWS</figcaption>
+</figure>
 
 Today’s conservation challenges are increasingly complex. Widespread threats such as drought, climate change and large-scale habitat fragmentation don’t just impact isolated places or individual species, but entire landscapes and multiple resources simultaneously.
 

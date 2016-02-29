@@ -6,25 +6,23 @@ hero:
 
 # Our Role
 
-<figure>
-  <img src="../images/green-plains-toad/400.jpg" alt="A close up image of a green plains toad." title="Green plains toad. Photo: Laurel Badura; USFWS." >
+<figure class="photo">
+  <img src="../images/great-plains-toad.jpg" alt="A close up image of a great plains toad.">
   <figcaption>Great Plains Toad - Rainwater Basin Wetland Management District  Photo: Laurel Badura; USFWS</figcaption>
 </figure>
 
 The Service is uniquely positioned to be a strong partner in the restoration of the Gulf of Mexico and its watershed. Our mission — to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people — compels us to address the Gulf of Mexico’s most convoluted challenges. It is also our obligation because the Service is:
 
-
 - the steward of America’s national wildlife refuges, which make up the backbone of a network of conservation lands dedicated to supporting fish and wildlife populations. The Service manages 233 national wildlife refuges in the Gulf of Mexico watershed, with millions of acres on 45 refuges along the Gulf coast alone.
 - the lead federal agency for the protection of migratory birds and anadromous fish, i.e., fish such as the salmon that migrate up rivers from the sea to spawn.
 - the agency that co-leads federal efforts for the recovery of federally threatened and endangered species, dedicated to working with states and others to proactively conserve species in the hope they will not require federal protection.
-
 
 The Gulf of Mexico watershed crosses five of the Service’s eight geographic regions (Southeast, Southwest, Midwest, Mountain-Prairie, and Northeast).  As a result, the Service has field and regional representation in all 31 states in the watershed that provide conservation planning and programs such as wildlife and sport fish restoration grants, endangered species recovery work, environmental contaminants response, and law enforcement, among others.
 
 # Our Vision
 
-<figure>
-  <img src="../images/mallards.jpg" alt="A flock of male and female mallards swimming in a dormant wetland" title="Mallards – Rainwater basin. Photo: USFWS." >
+<figure class="photo">
+  <img src="../images/mallards.jpg" alt="A flock of male and female mallards swimming in a dormant wetland">
   <figcaption>Mallards – Rainwater basin. Photo: USFWS</figcaption>
 </figure>
 
@@ -44,8 +42,8 @@ The conservation strategies are to:
 - Manage lands and waters for sustainable populations of fish and wildlife.
 
 
-<figure>
-  <img src="../images/snowy-plover.jpg" alt="A close up image of a snowy plover standing on a beach" title="Snowy Plover (Charadrius nivosus) at Bon Secour NWR. Credit: Keenan Adams, USFWS." >
+<figure class="photo">
+  <img src="../images/snowy-plover.jpg" alt="A close up image of a snowy plover standing on a beach">
   <figcaption>Snowy Plover, Bon Secour NWR. Photo: Keenan Adams, USFWS</figcaption>
 </figure>
 

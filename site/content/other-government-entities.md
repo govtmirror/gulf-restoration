@@ -9,12 +9,12 @@ url: /working-with-others/other-government-entities
 
 ## [National Academy of Sciences: Gulf of Mexico Program](http://www.nationalacademies.org/gulf/)
 
-<a href="https://flic.kr/p/8D8Ff8">
-  <figure>
+<figure>
+  <a href="https://flic.kr/p/8D8Ff8">
     <img src="../../images/oiled-bird-hazard.jpg" alt="State and Federal biologists discuss the capture of an oiled laughing gull.">
-    <figcaption>Terry Adelsbach, USFWS, and Leanne Bonner LA Dept. of Wildlife and Fisheries discuss capture of oiled laughing gull (in red box) with the Coast Guard responders. Photo: Tom MacKenzie, USFWS</figcaption>
-  </figure>
-</a>
+  </a>
+  <figcaption>Terry Adelsbach, USFWS, and Leanne Bonner LA Dept. of Wildlife and Fisheries discuss capture of oiled laughing gull (in red box) with the Coast Guard responders. Photo: Tom MacKenzie, USFWS</figcaption>
+</figure>
 
 As part of legal settlements for criminal action relating to the 2010 Deepwater Horizon oil spill, the companies BP and Transocean will be providing $500 million over 30 years to the National Academy of Science for work on enhancing oil system safety and the protection of human health and the environment in the Gulf of Mexico and other U.S. outer continental shelf areas.
 

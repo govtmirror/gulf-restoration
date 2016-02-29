@@ -8,7 +8,7 @@ hero:
 
 The GRP is a multi-disciplinary team of U.S. Fish and Wildlife Service professionals who are working together to develop the Service’s capacity to strategically connect with programs and partners throughout the Gulf of Mexico and its watershed. The team’s mission is to collaborate in leveraging Gulf restoration efforts to maximize conservation outcomes.
 
-<figure>
+<figure class="photo">
   <a href="http://www.epa.gov/gmpo/pdf/gom-watershed-map.pdf">
     <img src="../images/gom-watershed-map.jpg" alt="A map depicting the major drainages responsible for water flow in the United States" title="Major drainages of the United States">
   </a>
@@ -29,9 +29,9 @@ The GRP involves support from Service staff such as environmental compliance exp
 
 ## The Origin of the GRP
 
-<figure>
+<figure class="photo">
   <a href="https://flic.kr/p/aZcDNV">
-    <img src="../images/waterfowl-over-wetland.jpg" alt="A photograph of a large group of waterfowl taking flight over a wetland" title="Waterfowl taking flight over a wetland">
+    <img src="/images/waterfowl-over-wetland.jpg" alt="A photograph of a large group of waterfowl taking flight over a wetland" title="Waterfowl taking flight over a wetland">
   </a>
   <figcaption>40 percent of all North American migrating waterfowl and shorebirds use the Gulf of Mexico watershed’s Mississippi Flyway. Photo credit: Jan Sunberg; USFWS</figcaption>
 </figure>
@@ -42,9 +42,9 @@ The explosion of the Deepwater Horizon rig here on April 20, 2010, set into moti
 
 In the aftermath of the DWH oil spill, a number of new restoration initiatives began. Each has the potential to direct billions of dollars into restoration projects.
 
-<figure>
+<figure class="photo">
   <a href="../images/deepwater-horizon-explosion.jpg">
-    <img src="../images/deepwater-horizon-explosion-400.jpg" alt="Several boats fight a raging fire on an oil well pad" title="Authorities fight a raging fire on the Deepwater Horizon oil pad.">
+    <img src="../images/deepwater-horizon-explosion.jpg" alt="Several boats fight a raging fire on an oil well pad" title="Authorities fight a raging fire on the Deepwater Horizon oil pad.">
   </a>
   <figcaption>A federal judge ruled that the Deepwater Horizon oil spill released 3.14 million barrels (i.e., 134 million gallons) of oil into the Gulf of Mexico. Photo: U.S. Coast Guard</figcaption>
 </figure>
