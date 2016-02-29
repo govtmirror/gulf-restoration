@@ -15,7 +15,7 @@ url: /working-with-others/landscape-conservation-cooperatives
   <figcaption>The Aransas National Wildlife Refuge on the shore of San Antonio Bay is known for its large flock of wintering whooping cranes. Photo credit: Steve Hillebrand/USFWS</figcaption>
 </figure>
 
-Today’s conservation challenges are increasingly complex. Widespread threats such as drought, climate change and large-scale habitat fragmentation don’t just impact isolated places or individual species, but entire landscapes and multiple resources simultaneously.
+Today's conservation challenges are increasingly complex. Widespread threats such as drought, climate change and large-scale habitat fragmentation don't just impact isolated places or individual species, but entire landscapes and multiple resources simultaneously.
 
 These challenges are too large for the Service or any single organization to meet alone. Realizing it will take a combined effort involving many public and private organizations to deal with such landscape-scale issues, DOI in 2010 launched a network of partnerships known as Landscape Conservation Cooperatives (LCCs) to bring people and resources together for strategic advantage. These LCCS provide a forum for private, nonprofit, local, state, federal, tribal organizations and other groups to strategically apply their individual resources and expertise to ensure the sustainability of our economy, land, water, wildlife, and cultural resources.
 
