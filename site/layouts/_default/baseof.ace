@@ -10,4 +10,5 @@ html lang=en
     .container#content
       = yield main
     = include partials/footer.html .
+    script src="/js/nav.js" type="text/javascript"
     = include partials/analytics.html .
