@@ -8,7 +8,7 @@
   var activeClass = 'active';
 
   toggle.addEventListener('click', function (e) {
-    toggleClass(nav, activeClass);
+    dom.toggleClass(nav, activeClass);
   });
 
 })();
