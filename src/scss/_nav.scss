@@ -22,34 +22,62 @@
       color: $white;
     }
   }
+}
 
-  nav {
-    display: none;
+.main-nav {
+  display: none;
 
-    ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
+  &.active {
+    display: block;
+  }
 
-      li {
-        margin-bottom: 0;
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 
-        &:hover {
-          ul {
-            background-color: $black;
-            border-bottom-left-radius: 5px;
-            border-bottom-right-radius: 5px;
+    li {
+      margin-bottom: 0;
+
+      &:hover {
+        ul {
+          background-color: $black;
+          border-bottom-left-radius: 5px;
+          border-bottom-right-radius: 5px;
+          display: block;
+          min-width: 250px;
+          text-align: left;
+
+          li {
             display: block;
-            min-width: 250px;
-            text-align: left;
+          }
+
+          @media (min-width: $break-md) {
+            display: block;
+            left: 0;
+            padding: 0;
+            position: absolute;
+            top: 100%;
+            z-index: 50;
           }
         }
+      }
 
-        ul {
-          display: none;
-        }
+      ul {
+        display: none;
+      }
+
+      @media (min-width: $break-md) {
+        display: inline-block;
+        padding: .25em;
+        position: relative;
       }
     }
+  }
+
+  @media (min-width: $break-md) {
+    display: block;
+    text-align: center;
   }
 }
 
@@ -62,6 +90,10 @@
   font-size: .8em;
   margin: 0 15px;
   padding: .4em;
+
+  @media (min-width: $break-md) {
+    display: none;
+  }
 }
 
 .drop-down {
@@ -73,35 +105,5 @@
 
   &:hover {
     cursor: pointer;
-  }
-}
-
-@media (min-width: 815px) {
-
-  .nav-bar nav {
-    display: block;
-    text-align: center;
-  }
-
-  .nav-bar ul li {
-    display: inline-block;
-    padding: 0.25em;
-    position: relative;
-  }
-
-  .nav-bar ul li:hover ul {
-    display: block;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    z-index: 50;
-    padding: 0;
-  }
-  .nav-bar ul li:hover ul li {
-    display: block;
-  }
-
-  .toggle-nav {
-    display: none;
   }
 }
