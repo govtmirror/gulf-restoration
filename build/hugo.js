@@ -6,7 +6,7 @@
     '--config=site/config.yml',
     '--destination=../dist/',
     '--source=site/',
-    '--baseURL=/'
+    '--baseURL=' + process.argv[3]
   ]);
 
   hugo.stdout.on('data', function (data) {

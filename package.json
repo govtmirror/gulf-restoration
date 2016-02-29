@@ -8,11 +8,11 @@
     "img:hero": "src/images/hero/*",
     "img:pages": "src/images/pages/*",
     "img:news": "src/images/news/*",
-    "hugo": {
+    "hugo:dev": {
       "patterns": [
         "site/**/*"
       ],
-      "extensions": "html,md,ace,css"
+      "extensions": "html,md,ace,css,js"
     }
   },
   "scripts": {
@@ -30,10 +30,13 @@
     "img": "npm run img:hero & npm run img:pages & npm run img:news",
     "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent",
     "prehugo": "npm run cleandist",
-    "hugo": "node build/hugo",
-    "build": "npm run browserify & npm run img & npm run sass:build && npm run hugo",
-    "prestart": "npm run hugo & npm run sass:build & npm run img",
-    "start": "npm run watch & npm run watchify & npm run sass:watch & npm run serve"
+    "hugo:dev": "node build/hugo -- /",
+    "hugo:stage": "node build/hugo -- https://intranet.fws.gov/region4/new-gulf/",
+    "hugo:pro": "node build/hugo -- http://www.fws.gov/southeast/gulfrestoration/",
+    "build": "npm run img & npm run sass:build && npm run browserify && npm run hugo:pro",
+    "build:stage": "npm run img & npm run sass:build && npm run browserify && npm run hugo:stage",
+    "prestart": "npm run sass:build & npm run img",
+    "start": "npm run watch & npm run watchify & npm run sass:watch & npm run hugo:dev & npm run serve"
   },
   "keywords": [
     "Gulf",
