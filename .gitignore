@@ -2,5 +2,6 @@ dist
 node_modules
 site/static/css
 site/static/images
+site/static/js
 
 .DS_Store
