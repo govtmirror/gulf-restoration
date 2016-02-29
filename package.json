@@ -5,6 +5,8 @@
   "main": "index.js",
   "watch": {
     "fonts": "src/fonts/*",
+    "img:hero": "src/images/hero/*",
+    "img:jpg": "src/images/pages/*",
     "hugo": {
       "patterns": [
         "site/**/*"
@@ -20,11 +22,13 @@
     "sass:build": "node-sass --output-style compressed src/scss/main.scss site/static/css/main.css",
     "sass:watch": "node-sass -w src/scss/main.scss site/static/css/main.css",
     "img:hero": "node build/resize-hero.js",
+    "img:jpg": "node build/imagemin.js",
+    "img": "npm run img:hero & npm run img:jpg",
     "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent",
     "prehugo": "npm run cleandist",
     "hugo": "node build/hugo",
-    "build": "npm run sass:build && npm run hugo",
-    "prestart": "npm run hugo & npm run sass:build & npm run img:hero",
+    "build": "npm run img & npm run sass:build && npm run hugo",
+    "prestart": "npm run hugo & npm run sass:build & npm run img",
     "start": "npm run watch & npm run sass:watch & npm run serve"
   },
   "keywords": [
@@ -35,6 +39,7 @@
   "author": "@r0yhewitt",
   "license": "SAX-PD",
   "devDependencies": {
+    "imagemin": "^4.0.0",
     "ncp": "^2.0.0",
     "node-sass": "^3.4.2",
     "rimraf": "^2.5.2",

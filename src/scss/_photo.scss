@@ -1,0 +1,10 @@
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.photo {
+  @media (min-width: $break-md) {
+    float: right;
+  }
+}
