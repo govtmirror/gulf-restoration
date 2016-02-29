@@ -4,3 +4,5 @@ article
   img.photo src="/images/news/{{ .Params.photo }}"
   {{ end }}
   p {{ .Summary }}
+  p.read-more
+    a href="{{ .Permalink }}" Read the full story...
