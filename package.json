@@ -5,7 +5,6 @@
   "main": "index.js",
   "watch": {
     "fonts": "src/fonts/*",
-    "js": "src/js/*",
     "img:hero": "src/images/hero/*",
     "img:pages": "src/images/pages/*",
     "img:news": "src/images/news/*",
@@ -21,7 +20,8 @@
     "cleandist": "rimraf -rf dist",
     "watch": "npm-watch",
     "fonts": "ncp src/fonts dist/fonts",
-    "js": "ncp src/js site/static/js",
+    "browserify": "browserify src/js/index.js | uglifyjs -mc > site/static/js/nav.js",
+    "watchify": "watchify src/js/index.js -o site/static/js/nav.js -dv",
     "sass:build": "node-sass --output-style compressed src/scss/main.scss site/static/css/main.css",
     "sass:watch": "node-sass -w src/scss/main.scss site/static/css/main.css",
     "img:hero": "node build/resize-hero.js",
@@ -31,9 +31,9 @@
     "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent",
     "prehugo": "npm run cleandist",
     "hugo": "node build/hugo",
-    "build": "npm run img & npm run sass:build && npm run hugo",
-    "prestart": "npm run hugo & npm run sass:build & npm run img & npm run js",
-    "start": "npm run watch & npm run sass:watch & npm run serve"
+    "build": "npm run browserify & npm run img & npm run sass:build && npm run hugo",
+    "prestart": "npm run hugo & npm run sass:build & npm run img",
+    "start": "npm run watch & npm run watchify & npm run sass:watch & npm run serve"
   },
   "keywords": [
     "Gulf",
@@ -48,6 +48,7 @@
     "ncp": "^2.0.0",
     "node-sass": "^3.4.2",
     "rimraf": "^2.5.2",
-    "sharp": "^0.13.0"
+    "sharp": "^0.13.0",
+    "uglifyjs": "^2.4.10"
   }
 }
