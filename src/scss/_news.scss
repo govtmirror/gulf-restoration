@@ -1,0 +1,31 @@
+.news-releases {
+  clear: both;
+
+  article {
+    margin: 0 auto $leading;
+    max-width: 800px;
+  }
+
+  img {
+    margin: $leading 0 $leading $leading;
+  }
+}
+
+.news-title {
+  color: $blue;
+}
+
+.news-date {
+  font-weight: bold;
+  position: relative;
+  top: 10px;
+}
+
+.read-more {
+  text-align: right;
+}
+
+.news-archive {
+  margin-bottom: 2em;
+  text-align: center;
+}
