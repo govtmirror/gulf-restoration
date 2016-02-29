@@ -1,6 +1,8 @@
 ---
 title: Remembering the Deepwater Horizon Oil Spill
 date: 2015-05-12
+
+photo: oiled-bird.jpg
 ---
 
 On April 20, 2010, the Deepwater Horizon drilling rig exploded 41 miles off the coast of Louisiana.  Eleven people lost their lives in the explosion, and life along the coast changed dramatically.  As oil from the damaged well began flowing into the Gulf of Mexico, Service biologists were on high alert.  The Gulf Coast region is a globally unique ecosystem that supports a high number of beach-nesting birds, such as sandwich terns, brown pelicans and Wilson’s plovers.  At the time of the spill, these species were on the verge of nesting season, and oil would be detrimental to the birds.  Nesting sea turtles were also in grave danger, and the embattled species was at risk of losing an entire nesting season.
@@ -21,4 +23,4 @@ Teams of biologists also kicked off the Natural Resources Damage and Assessment 
 
 "The worst thing during the spill response was that period when the oil was still gushing out, being out there every day witnessing the disaster, and not knowing what the future held for the Gulf Coast.  It was a threat to both our livelihood, the natural resources that we're entrusted with protecting and our home," says Mittiga.
 
-In the end, the Service’s Panama City biologists had reason to be thankful.  Their pristine beaches received minimal oiling.  But Panama City biologists aren’t quite ready to let their guards down.   "Even though the Florida coast was not as heavily oiled, we still do not fully understand the full effects of the damage to the Gulf, says current Project Leader Catherine Phillips.  "Our work will not stop until we see a full recovery from the oil spill of 2010.” 
+In the end, the Service’s Panama City biologists had reason to be thankful.  Their pristine beaches received minimal oiling.  But Panama City biologists aren’t quite ready to let their guards down.   "Even though the Florida coast was not as heavily oiled, we still do not fully understand the full effects of the damage to the Gulf, says current Project Leader Catherine Phillips.  "Our work will not stop until we see a full recovery from the oil spill of 2010.”

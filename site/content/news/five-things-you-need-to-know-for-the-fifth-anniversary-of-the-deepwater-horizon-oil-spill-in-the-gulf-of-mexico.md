@@ -1,6 +1,8 @@
 ---
 title: Five Things You Need to Know for the 5th Anniversary of the Deepwater Horizon Oil Spill in the Gulf of Mexico
 date: 2015-04-20
+
+photo: green-sea-turtle.jpg
 ---
 
 #1 Did you know that the good health of the Gulf of Mexico depends on places far from the Gulf Coast? Thirty-one states (more than 50% of the contiguous US) have rivers, creeks, and streams that eventually drain into the Gulf of Mexico. The Gulf of Mexico watershed includes states as far away as Montana and New York!
