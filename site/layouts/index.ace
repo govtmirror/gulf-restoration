@@ -24,12 +24,12 @@
 
     p As a result, native fish and wildlife populations and their habitats are in decline, imperiling the very fabric that supports the area’s vibrant economy.In order to achieve a healthy Gulf of Mexico, the Service recognizes conservation must occur throughout the greater Gulf watershed. Society’s investment in the Gulf of Mexico will be at risk if we restore the coastal region but fail to address systemic problems that originate upstream.
 
-    a href="https://www.fws.gov/gulfrestoration/images/GOMmapFull.gif"
-      img sizes="100vw" srcset="./images/map/400.jpg 400w, ./images/map/600.jpg 600w, ./images/map/1000.jpg 1000w, ./images/map/1200.jpg 1200w, ./images/map/1400.jpg 1400w" src="./images/map/400.jpg" alt="Map of the Gulf of Mexico watershed." title="Map of the Gulf of Mexico watershed"
-
     p Restoring this vital area will ensure America continues to thrive well into and beyond the 21st century.
 
     h2 The Gulf of Mexico: Fast Facts
+
+    a href="https://www.fws.gov/gulfrestoration/images/GOMmapFull.gif"
+      img class="photo" src="./images/gom-watershed-map.jpg" alt="Map of the Gulf of Mexico watershed."
 
     p More than 50% of the contiguous United States have rivers, creeks, and streams that eventually drain into the Gulf of Mexico. The Gulf of Mexico watershed includes 31 states that stretch from Montana to Florida, as well as parts of Canada and Mexico.
 
