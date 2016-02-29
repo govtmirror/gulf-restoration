@@ -9,7 +9,7 @@ url: /working-with-others/other-government-entities
 
 ## [National Academy of Sciences: Gulf of Mexico Program](http://www.nationalacademies.org/gulf/)
 
-<figure>
+<figure class="photo">
   <a href="https://flic.kr/p/8D8Ff8">
     <img src="../../images/oiled-bird-hazard.jpg" alt="State and Federal biologists discuss the capture of an oiled laughing gull.">
   </a>
