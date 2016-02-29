@@ -6,7 +6,8 @@
   "watch": {
     "fonts": "src/fonts/*",
     "img:hero": "src/images/hero/*",
-    "img:jpg": "src/images/pages/*",
+    "img:pages": "src/images/pages/*",
+    "img:news": "src/images/news/*",
     "hugo": {
       "patterns": [
         "site/**/*"
@@ -22,8 +23,9 @@
     "sass:build": "node-sass --output-style compressed src/scss/main.scss site/static/css/main.css",
     "sass:watch": "node-sass -w src/scss/main.scss site/static/css/main.css",
     "img:hero": "node build/resize-hero.js",
-    "img:jpg": "node build/imagemin.js",
-    "img": "npm run img:hero & npm run img:jpg",
+    "img:pages": "node build/imagemin-pages.js",
+    "img:news": "node build/imagemin-news.js",
+    "img": "npm run img:hero & npm run img:pages & npm run img:news",
     "serve": "browser-sync start --server dist --files 'dist/**/*' --logLevel silent",
     "prehugo": "npm run cleandist",
     "hugo": "node build/hugo",
@@ -39,6 +41,7 @@
   "author": "@r0yhewitt",
   "license": "SAX-PD",
   "devDependencies": {
+    "gulp-rename": "^1.2.2",
     "imagemin": "^4.0.0",
     "ncp": "^2.0.0",
     "node-sass": "^3.4.2",
