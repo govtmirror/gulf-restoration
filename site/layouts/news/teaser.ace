@@ -1,3 +1,6 @@
 article
   h3 {{ .Title }}
+  {{ if .Params.photo }}
+  img.photo src="/images/news/{{ .Params.photo }}"
+  {{ end }}
   p {{ .Summary }}

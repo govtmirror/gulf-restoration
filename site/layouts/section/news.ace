@@ -1,9 +1,10 @@
 = content main
   h1 {{ .Title }}
 
-  {{ $paginator := .Paginate (where .Data.Pages "Type" "news") }}
-  {{ range $paginator.Pages }}
-    {{ .Render "teaser" }}
-  {{ end }}
+  section.news-releases
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "news") }}
+    {{ range $paginator.Pages }}
+      {{ .Render "teaser" }}
+    {{ end }}
 
   {{ template "_internal/pagination.html" . }}
