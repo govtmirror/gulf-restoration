@@ -10,3 +10,4 @@ html lang=en
     .container#content
       = yield main
     = include partials/footer.html .
+    = include partials/analytics.html .
