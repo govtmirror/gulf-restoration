@@ -3,6 +3,11 @@ img {
   max-width: 100%;
 }
 
+.image-right {
+  float: right;
+  margin: $leading 0 $leading $leading;
+}
+
 .photo {
   background-color: $white;
   border: 1px solid $gray;
