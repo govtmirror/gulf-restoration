@@ -1,0 +1,14 @@
+= content main
+  .main role="main"
+    h1 {{ .Title }}
+    {{ if .Params.photo.link }}
+    a href="{{ .Params.photo.link }}"
+      figure class="image-right"
+        img src="/images/news/{{ .Params.photo.src }}"
+        figcaption {{ .Params.photo.caption }}
+    {{ else }}
+    figure class="image-right"
+      img src="/images/news/{{ .Params.photo.src }}"
+      figcaption {{ .Params.photo.caption }}
+    {{ end }}
+    {{ .Content }}
