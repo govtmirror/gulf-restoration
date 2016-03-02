@@ -24,13 +24,13 @@
       img
         .resize(300)
         .toBuffer(function (error, buffer) {
-          if (error) console.error(error);
-          imagemin(buffer, name);
+          imagemin(error, buffer, name);
         });
     });
   });
 
-  function imagemin(buffer, name) {
+  function imagemin(error, buffer, name) {
+    if (error) console.error(error);
     new Imagemin()
       .src(buffer)
       .dest(output)
