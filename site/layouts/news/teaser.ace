@@ -1,7 +1,17 @@
 article
-  h3 {{ .Title }}
+  a href="{{ .Permalink }}"
+    h3 {{ .Title }}
   {{ if .Params.photo }}
-  img.photo src="/images/news/{{ .Params.photo }}"
+  {{ if .Params.photo.link }}
+  a href="{{ .Params.photo.link }}"
+    figure class="image-right"
+      img src="/images/news/{{ .Params.photo.src }}"
+      figcaption {{ .Params.photo.caption }}
+  {{ else }}
+  figure class="image-right"
+    img src="/images/news/{{ .Params.photo.src }}"
+    figcaption {{ .Params.photo.caption }}
+  {{ end }}
   {{ end }}
   p {{ .Summary }}
   p.read-more
