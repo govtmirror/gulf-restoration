@@ -6,8 +6,8 @@ hero:
 
 # Our Role
 
-<figure class="photo">
-  <img src="../images/great-plains-toad.jpg" alt="A close up image of a great plains toad.">
+<figure class="image-right">
+  <img src="/images/great-plains-toad.jpg" alt="A close up image of a great plains toad.">
   <figcaption>Great Plains Toad - Rainwater Basin Wetland Management District  Photo: Laurel Badura; USFWS</figcaption>
 </figure>
 
@@ -21,8 +21,8 @@ The Gulf of Mexico watershed crosses five of the Service's eight geographic regi
 
 # Our Vision
 
-<figure class="photo">
-  <img src="../images/mallards.jpg" alt="A flock of male and female mallards swimming in a dormant wetland">
+<figure class="image-right">
+  <img src="/images/mallards.jpg" alt="A flock of male and female mallards swimming in a dormant wetland">
   <figcaption>Mallards – Rainwater basin. Photo: USFWS</figcaption>
 </figure>
 
@@ -42,8 +42,8 @@ The conservation strategies are to:
 - Manage lands and waters for sustainable populations of fish and wildlife.
 
 
-<figure class="photo">
-  <img src="../images/snowy-plover.jpg" alt="A close up image of a snowy plover standing on a beach">
+<figure class="image-right">
+  <img src="/images/snowy-plover.jpg" alt="A close up image of a snowy plover standing on a beach">
   <figcaption>Snowy Plover, Bon Secour NWR. Photo: Keenan Adams, USFWS</figcaption>
 </figure>
 

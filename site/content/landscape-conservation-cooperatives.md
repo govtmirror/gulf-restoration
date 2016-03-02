@@ -8,7 +8,7 @@ url: /working-with-others/landscape-conservation-cooperatives
 
 # Landscape Conservation Cooperatives
 
-<figure class="photo">
+<figure class="image-right">
   <a href="https://flic.kr/p/8LzNU2">
     <img src="/images/wooping-cranes.jpg" alt="Two whooping cranes in flight over a grassland">
   </a>

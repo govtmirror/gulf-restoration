@@ -7,7 +7,7 @@ url: /working-with-others/state-and-federal-entities
 
 # Joint State-Federal Entities
 
-<figure>
+<figure class="image-right">
   <a href="https://flic.kr/p/8DbEr5">
     <img src="/images/cleaning-brown-pelican.jpg" alt="Two people in HAZMAT gear clean a brown pelican of oil" >
   </a>
@@ -20,7 +20,7 @@ Close relationships with the state fish and wildlife agencies, other federal age
 
 ## [Natural Resources Damage Assessment and Restoration Program (NRDA)](http://www.doi.gov/restoration/index.cfm)
 
-<figure>
+<figure class="image-right">
   <a href="https://flic.kr/p/8D8zWF">
     <img src="/images/tar-balls-on-shore.jpg" alt="A U.S. Fish &apm; Wildlife employee wearing gloves examines oil on a beach" >
   </a>

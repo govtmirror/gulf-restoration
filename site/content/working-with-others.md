@@ -6,9 +6,9 @@ hero:
 
 # Joint State-Federal Entities
 
-<figure class="photo">
+<figure class="image-right">
   <a href="https://flic.kr/p/8DbEr5">
-    <img src="/images/cleaning-brown-pelican.jpg" alt="Two people in HAZMAT gear clean a brown pelican of oil" >
+    <img src="/images/cleaning-brown-pelican.jpg" alt="Two people in HAZMAT gear clean a brown pelican of oil">
   </a>
   <figcaption>Brown pelican being cleaned of oil and other contaminants May 26, 2010, as part of the response to the Deepwater Horizon oil spill. Photo: Tom MacKenzie, USFWS</figcaption>
 </figure>
@@ -20,7 +20,7 @@ Close relationships with the state fish and wildlife agencies, other federal age
 ## [Natural Resources Damage Assessment and Restoration Program (NRDA)](http://www.doi.gov/restoration/index.cfm)
 
 
-<figure class="photo">
+<figure class="image-right">
   <a href="https://flic.kr/p/8D8zWF">
     <img src="/images/tar-balls-on-shore.jpg" alt="A U.S. Fish &apm; Wildlife employee wearing gloves examines oil on a beach" >
   </a>
