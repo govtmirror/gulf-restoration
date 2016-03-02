@@ -32,6 +32,11 @@ The Service's Vision for a Healthy Gulf of Mexico Watershed ([full document](htt
 
 The conservation strategies are to:
 
+<figure class="image-right">
+  <img src="/images/snowy-plover.jpg" alt="A close up image of a snowy plover standing on a beach">
+  <figcaption>Snowy Plover, Bon Secour NWR. Photo: Keenan Adams, USFWS</figcaption>
+</figure>
+
 - Use sound science;
 - Restore resources impacted by the Deepwater Horizon oil spill;
 - Create a network of protected lands;
@@ -40,11 +45,5 @@ The conservation strategies are to:
 - Protect and restore coastal strand, barrier island and estuarine island habitats;
 - Conserve working lands; and
 - Manage lands and waters for sustainable populations of fish and wildlife.
-
-
-<figure class="image-right">
-  <img src="/images/snowy-plover.jpg" alt="A close up image of a snowy plover standing on a beach">
-  <figcaption>Snowy Plover, Bon Secour NWR. Photo: Keenan Adams, USFWS</figcaption>
-</figure>
 
 The conservation focal areas, from west to east, are: Laguna Madre and Lower Rio Grande River Valley; Texas Coastal Bend; Austin's Woods and Prairies; Chenier Plain; Mississippi River Delta, Coastal Wetlands and Barrier Islands; Atchafalaya River Basin; Mississippi Alluvial Valley; Northern Gulf Coast; Alabama and Florida Panhandle Beaches; Florida Panhandle; Apalachicola River Watershed; Big Bend Springs Conservation; Southwest Florida; Upper Mississippi River Watershed; Rainwater Basin; and Prairie Pothole Region.
