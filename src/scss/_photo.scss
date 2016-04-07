@@ -4,8 +4,12 @@ img {
 }
 
 .image-right {
-  float: right;
-  margin: $leading 0 $leading $leading;
+  margin: $leading auto;
+
+  @media (min-width: $break-md) {
+    float: right;
+    margin: $leading 0 $leading $leading;
+  }
 }
 
 .photo {
@@ -58,4 +62,8 @@ figcaption {
   display: table-caption;
   padding: 5px;
   text-align: center;
+
+  a {
+    text-decoration: underline;
+  }
 }
