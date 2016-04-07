@@ -1,10 +1,11 @@
 ---
-title: Remembering the Deepwater Horizon Oil Spill
-date: 2015-05-12
-
+title: 'Remembering the Deepwater Horizon Oil Spill'
+date: '2015-05-12'
 photo:
-  src: "oiled-bird.jpg"
-  caption: "Workers feed an injured bird. Photo: USFWS"
+    src: oiled-bird.jpg
+    alt: 'Two trained employees wash an oiled bird'
+    caption: 'Workers feed an injured bird. Photo: USFWS'
+updated: 'April 7th, 2016'
 ---
 
 On April 20, 2010, the Deepwater Horizon drilling rig exploded 41 miles off the coast of Louisiana.  Eleven people lost their lives in the explosion, and life along the coast changed dramatically.  As oil from the damaged well began flowing into the Gulf of Mexico, Service biologists were on high alert.  The Gulf Coast region is a globally unique ecosystem that supports a high number of beach-nesting birds, such as sandwich terns, brown pelicans and Wilson's plovers.  At the time of the spill, these species were on the verge of nesting season, and oil would be detrimental to the birds.  Nesting sea turtles were also in grave danger, and the embattled species was at risk of losing an entire nesting season.

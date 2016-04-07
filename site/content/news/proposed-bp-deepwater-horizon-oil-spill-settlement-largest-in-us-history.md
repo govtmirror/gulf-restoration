@@ -1,11 +1,12 @@
 ---
-title: Proposed BP Deepwater Horizon oil spill settlement largest in U.S. history
-date: 2015-11-28
-
+title: 'Proposed BP Deepwater Horizon oil spill settlement largest in U.S. history'
+date: '2015-11-28'
 photo:
-  src: "black-skimmer-oil-boom.jpg"
-  caption: "Black Skimmer at Belle Pass, LA. Photo: Tom MacKenzie, USFWS"
-  link: "https://flic.kr/p/8DceF7"
+    src: black-skimmer-oil-boom.jpg
+    alt: 'A black skimmer flies over a sandy beach with an oil boom and rigs in the background'
+    caption: 'Black Skimmer at Belle Pass, LA. Photo: Tom MacKenzie, USFWS'
+    link: 'https://flic.kr/p/8DceF7'
+updated: 'April 7th, 2016'
 ---
 
 On October 5, U.S Attorney General Loretta Lynch, announced a "major step forward in our effort to deliver justice to the Gulf region." Flanked by four Cabinet level leaders, Lynch explained, "We have secured an historic resolution of our pending claims against BP, totaling more than $20 billion and making it the largest settlement against any entity in American history." BP was the party primarily responsible for 2010's Deepwater Horizon oil spill, the largest environmental disaster in U.S. history.

@@ -1,11 +1,12 @@
 ---
-title: New Report Assesses the Impacts of Emerging Threats on Gulf Coast Species and Ecosystems
-date: 2015-11-13
-
+title: 'New Report Assesses the Impacts of Emerging Threats on Gulf Coast Species and Ecosystems'
+date: '2015-11-13'
 photo:
-  src: "kemps-ridley-on-beach.jpg"
-  caption: "Kemp's ridley sea turtle. Credit: NER Sea Turtle Stranding Network."
-  link: "https://flic.kr/p/bnBsyZ"
+    src: kemps-ridley-on-beach.jpg
+    alt: 'A Kemp''s ridley sea turtle on a beach'
+    caption: 'Kemp''s ridley sea turtle. Credit: NER Sea Turtle Stranding Network.'
+    link: 'https://flic.kr/p/bnBsyZ'
+updated: 'April 7th, 2016'
 ---
 
 The U.S. Fish and Wildlife Service today released its Gulf Coast Vulnerability Assessment (GCVA), a comprehensive report that evaluates the effects of climate change, sea level rise and urbanization on four Gulf Coast ecosystems and 11 species that depend on them. The ecosystems are mangrove, oyster reef, tidal emergent marsh and barrier islands. The species are roseate spoonbill, blue crab, clapper rail, mottled duck, spotted seatrout, eastern oyster, American oystercatcher, red drum, black skimmer, Kemp's ridley sea turtle and Wilson's plover.

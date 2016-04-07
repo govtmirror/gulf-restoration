@@ -1,10 +1,11 @@
 ---
-title: New Restoration Projects Funded by National Fish & Wildlife Foundation Compliment USFWS Conservation Efforts on National Wildlife Refuges on the Gulf Coast
-date: 2015-11-10
-
+title: 'New Restoration Projects Funded by National Fish & Wildlife Foundation Compliment USFWS Conservation Efforts on National Wildlife Refuges on the Gulf Coast'
+date: '2015-11-10'
 photo:
-  src: "pelican-on-refuge-sign.jpg"
-  caption: "Brown Pelican perched on sign at Pelican Island NWR. Photo: USFWS"
+    src: pelican-on-refuge-sign.jpg
+    alt: 'A brown pelican standing on a piling with a National Wildlife Refuge sign'
+    caption: 'Brown Pelican perched on sign at Pelican Island NWR. Photo: USFWS'
+updated: 'April 7th, 2016'
 ---
 
 The National Fish and Wildlife Foundation (NFWF) today announced it is awarding more than $80 million from its Gulf Environmental Benefit Fund (GEBF) to 22 projects designed to benefit natural resources that were impacted by the 2010 Deepwater Horizon oil spill in the Gulf of Mexico. Eight of these new projects will be implemented either in or near National Wildlife Refuges managed by the US Fish and Wildlife Service. Altogether, these projects will receive approximately $20 million from the GEBF in this round of funding.  The newly funded efforts will further the National Wildlife Refuge System's mission to conserve, manage and restore the fish, wildlife, plant and habitat resources of the United States for the benefit of present and future generations of Americans.

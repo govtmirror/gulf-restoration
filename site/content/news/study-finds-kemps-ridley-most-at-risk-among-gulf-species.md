@@ -1,10 +1,11 @@
 ---
-title: Study Finds Kemp's Ridley Most At-Risk Among Gulf species
-date: 2015-11-23
-
+title: 'Study Finds Kemp''s Ridley Most At-Risk Among Gulf species'
+date: '2015-11-23'
 photo:
-  src: "kemps-ridley-sea-turtle.jpg"
-  caption: "Kemp's ridley sea turtle, photo: USFWS"
+    src: kemps-ridley-sea-turtle.jpg
+    alt: 'A Kemp''s ridley sea turtle on a beach with surf in the background'
+    caption: 'Kemp''s ridley sea turtle, photo: USFWS'
+updated: 'April 7th, 2016'
 ---
 
 While it is said, "change is the law of life," there is considerable concern that accelerated sea-level rise, changing climate and increased urbanization are going to have major negative impacts on coastal landscapes and species along the Gulf of Mexico. A recently released Service-affiliated report that evaluates the vulnerability of four key ecosystems and 11 associated species concludes tidal emergent marsh and Kemp ridley sea turtles are the most vulnerable to these emerging threats.
