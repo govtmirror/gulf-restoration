@@ -17,6 +17,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "lastmod": "node build/last-mod",
+    "audit": "a11y dist/**/*.html",
     "cleandist": "rimraf -rf dist",
     "watch": "npm-watch",
     "fonts": "ncp src/fonts dist/fonts",
@@ -36,7 +38,7 @@
     "build": "npm run img & npm run sass:build && npm run browserify && npm run hugo:pro",
     "build:stage": "npm run img & npm run sass:build && npm run browserify && npm run hugo:stage",
     "prestart": "npm run sass:build & npm run img",
-    "start": "npm run watch & npm run watchify & npm run sass:watch & npm run hugo:dev & npm run serve"
+    "start": "npm run watch & npm run watchify & npm run lastmod & npm run sass:watch & npm run hugo:dev & npm run serve"
   },
   "keywords": [
     "Gulf",
@@ -46,12 +48,18 @@
   "author": "@r0yhewitt",
   "license": "SAX-PD",
   "devDependencies": {
+    "a11y": "^0.4.1",
+    "chokidar": "^1.4.3",
+    "gray-matter": "^2.0.2",
     "gulp-rename": "^1.2.2",
     "imagemin": "^4.0.0",
+    "moment": "^2.12.0",
     "ncp": "^2.0.0",
     "node-sass": "^3.4.2",
+    "replace-in-file": "^1.0.2",
     "rimraf": "^2.5.2",
     "sharp": "^0.13.0",
-    "uglifyjs": "^2.4.10"
+    "uglifyjs": "^2.4.10",
+    "yamljs": "^0.2.7"
   }
 }
