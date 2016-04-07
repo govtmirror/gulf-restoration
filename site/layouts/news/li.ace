@@ -1,4 +1,5 @@
 li.news-item
   a href={{ .Permalink }}
-    img src="/images/thumbnails/{{ .Params.photo.src }}"
+    img src="/images/news/{{ .Params.photo.src }}" alt="{{ .Params.photo.alt }}"
+    p.teaser-date {{ .Date.Format "January 2, 2006" }}
     p {{ .Title }}

@@ -5,13 +5,18 @@ article
   {{ if .Params.photo.link }}
   a href="{{ .Params.photo.link }}"
     figure class="image-right"
-      img src="/images/news/{{ .Params.photo.src }}"
+      img src="/images/news/{{ .Params.photo.src }}" alt="{{ .Params.photo.alt }}"
       figcaption {{ .Params.photo.caption }}
   {{ else }}
   figure class="image-right"
-    img src="/images/news/{{ .Params.photo.src }}"
+    img src="/images/news/{{ .Params.photo.src }}" alt="{{ .Params.photo.alt }}"
     figcaption {{ .Params.photo.caption }}
   {{ end }}
+  {{ end }}
+  p {{ .Date.Format "January 2, 2006" }}
+  {{ if .Params.author }}
+  p
+    strong By: {{ .Params.author }}
   {{ end }}
   p {{ .Summary }}
   p.read-more
