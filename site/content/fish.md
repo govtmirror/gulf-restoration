@@ -2,7 +2,9 @@
 title: Fish
 hero:
     name: gulf-sturgeon
-updated: 'April 7th, 2016'
+    alt: 'A photograph of the profile of a Gulf sturgeon'
+    caption: 'Gulf sturgeon. Photo: Kayla Kimmel, USFWS'
+updated: 'April 13th, 2016'
 ---
 
 # Fish
