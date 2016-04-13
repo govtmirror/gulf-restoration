@@ -2,7 +2,9 @@
 title: Birds
 hero:
     name: whooping-cranes-aransas-nwr
-updated: 'April 7th, 2016'
+    alt: 'A group of Whooping cranes wading in the mud'
+    caption: 'Whooping Cranes at Aransas National Wildlife Refuge. Photo: Kraus Nigge, USFWS'
+updated: 'April 13th, 2016'
 ---
 
 # Birds
