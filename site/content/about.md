@@ -2,14 +2,14 @@
 title: About
 hero:
     name: sandhill-crane
-updated: 'April 7th, 2016'
+    alt: 'A close-up photograph of a Mississippi sandhill cranes head'
+    caption: 'Mississippi sandhill crane chick. Photo: USFWS'
+updated: 'April 13th, 2016'
 ---
 
-# About Us
+# Our Role
 
-## Our Role
-
-The Service is uniquely positioned to be a strong partner in the restoration of the Gulf of Mexico and its watershed. Our mission — to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people — compels us to address the Gulf of Mexico’s many challenges. We are also obligated to do so as the steward of America’s national wildlife refuges; as the lead federal agency for the protection of migratory birds and anadromous fish (i.e. fish that divide their lives between freshwater and the ocean); and as the co-lead for the recovery of federally threatened and endangered species, including marine mammals.
+The Service is uniquely positioned to be a strong partner in the restoration of the Gulf of Mexico and its watershed. Our mission &mdash; to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people &mdash; compels us to address the Gulf of Mexico's many challenges. We are also obligated to do so as the steward of America's national wildlife refuges; as the lead federal agency for the protection of migratory birds and anadromous fish (i.e. fish that divide their lives between freshwater and the ocean); and as the co-lead for the recovery of federally threatened and endangered species, including marine mammals.
 
 The Service is in charge of 233 National Wildlife Refuges (NWR) in the Gulf of Mexico watershed that serve as the backbone for a network of conservation lands dedicated to supporting fish and wildlife populations and providing unparalleled outdoor experiences for all Americans. Our refuge stewardship responsibilities began in the Gulf States in 1903 with the establishment of Pelican Island NWR, and on the Gulf Coast itself in 1904 with that of Breton Island NWR.
 
