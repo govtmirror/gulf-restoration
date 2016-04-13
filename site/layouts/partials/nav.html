@@ -2,14 +2,24 @@
   <button class="toggle-nav">Menu</button>
   <nav class="main-nav">
     <ul>
-      <li><a href="/">Gulf Home</a></li>
-      <li><a href="/about">About Us</a></li>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="/program">Our Program</a></li>
+      <li><a href="/refuges">Refuges</a></li>
+      <li><a href="/mammals">Mammals</a></li>
       <li><a href="/birds">Birds</a></li>
       <li><a href="/fish">Fish</a></li>
+      <li><a href="/reptiles">Reptiles</a></li>
+      <li><a href="/plants">Plants</a></li>
       <li><a href="/invertebrates">Invertebrates</a></li>
-      <li><a href="/program">Our Program</a></li>
+      <li><a href="/call-to-action">Our Call to Action</a></li>
       <li><a href="/responsibilities">Our Responsibilities</a></li>
       <li><a href="/news">News</a></li>
     </ul>
   </nav>
 </div>
+{{ if .Params.hero }}
+<p class="hero-caption">{{ .Params.hero.caption }}</p>
+{{ else }}
+<p class="hero-caption">Kemp's Ridley sea turtle hatchlings. Photo: USFWS</p>
+{{ end }}
