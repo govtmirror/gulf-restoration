@@ -4,7 +4,7 @@ hero:
     name: st-joseph-bay
     alt: 'The sun rises over the marsh at St. Joseph Bay'
     caption: 'Sunrise over the marsh at St. Joseph Bay. Photo: Melody Ray-Culp, USFWS'
-updated: 'April 7th, 2016'
+updated: 'April 13th, 2016'
 ---
 # Our Responsibilities
 
@@ -31,6 +31,6 @@ There are 45 National Wildlife Refuges along the Gulf Coast.
  - [Birds of the Gulf](/birds)
  - [Mammals of the Gulf](/mammals)
  - [Invertebrates of the Gulf](/invertebrates)
- - Plants and Fungi of the Gulf
- - Reptiles of the Gulf
- - Refuges of the Gulf
+ - [Plants and Fungi of the Gulf](/plants)
+ - [Reptiles of the Gulf](/reptiles)
+ - [Refuges of the Gulf](/refuges)
