@@ -1,5 +1,5 @@
 <footer>
-  <p class="last-updated">Last updated: {{ .Params.updated }}</p>
+  {{ if .Params.updated }}<p class="last-updated">Last updated: {{ .Params.updated }}</p>{{ end }}
   <!-- {{ .Lastmod.Format "January 2, 2006" }} -->
 
   <ul>
