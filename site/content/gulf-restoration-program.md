@@ -2,8 +2,10 @@
 title: 'Our Gulf Restoration Program'
 hero:
     name: deepwater-horizon-oiled-bird
+    alt: 'Workers rinse of a bird after a deep clean'
+    caption: 'Deepwater Horizon oil spill cleanup. Photo: Tom MacKenzie, USFWS'
 url: /program
-updated: 'April 7th, 2016'
+updated: 'April 13th, 2016'
 ---
 # Our Gulf Restoration Program
 
