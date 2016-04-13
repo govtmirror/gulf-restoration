@@ -2,6 +2,7 @@
   clear: both;
 
   article {
+    margin: $leading auto;
     max-width: 800px;
     padding-bottom: $leading;
   }
